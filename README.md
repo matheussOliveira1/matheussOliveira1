@@ -1,6 +1,6 @@
 # Olá, seja bem vindo! 😋
 
-- 🔭 Ainda estou no meu desenvolvimento profissional e ainda não fui introduzido em uma empresa!
+- 🔭 Ainda estou na minha jornada de desenvolvimento profissional!
 - 🌱 Estou estudando na faculdade SPTECH!
 
 <div align="center">
