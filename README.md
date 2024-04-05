@@ -1,7 +1,8 @@
-# Olá, seja bem vindo! 😋
+# Seja bem vindo!
 
-- 🔭 Ainda estou na minha jornada de desenvolvimento profissional!
-- 🌱 Formado na universidade SPTECH!
+- 🔭 Dev com capacidades Full Stack, mas focado em Back End
+- 📚 Formado na universidade SPTech School em Análise e Desenvolvimento de Sistemas
+- Portfólio: em desenvolvimento...
 
 <div align="center">
   <a href="https://github.com/matheussOliveira1">
