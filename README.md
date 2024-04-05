@@ -1,7 +1,7 @@
 # Matheus Oliveira
 
 - 🔭 Dev com capacidades Full Stack, mas focado em Back End
-- 📚 Formado na universidade SPTech School em Análise e Desenvolvimento de Sistemas
+- 📚 Formado na universidade SPTECH em Análise e Desenvolvimento de Sistemas
 - 📀 Portfólio em desenvolvimento...
 
 <div align="left">
