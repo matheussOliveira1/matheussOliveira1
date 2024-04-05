@@ -1,4 +1,4 @@
-# Seja bem vindo!
+# Matheus Oliveira
 
 - 🔭 Dev com capacidades Full Stack, mas focado em Back End
 - 📚 Formado na universidade SPTech School em Análise e Desenvolvimento de Sistemas
@@ -9,6 +9,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheussOliveira1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussOliveira1&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<h2>Tecnologias:</h2>
 
 <section>
 
