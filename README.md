@@ -1,7 +1,7 @@
 # Olá, seja bem vindo! 😋
 
 - 🔭 Ainda estou na minha jornada de desenvolvimento profissional!
-- 🌱 Estou estudando na faculdade SPTECH!
+- 🌱 Formado na universidade SPTECH!
 
 <div align="center">
   <a href="https://github.com/matheussOliveira1">
