@@ -2,7 +2,6 @@
 
 - 🔭 Dev com capacidades Full Stack, mas focado em Back End
 - 📚 Formado na universidade SPTECH em Análise e Desenvolvimento de Sistemas
-- 📀 Portfólio: https://matheussoliveira1.github.io/portfolio-reactjs-matheus/
 
 <div align="left">
   <a href="https://github.com/matheussOliveira1">
